@@ -22,9 +22,8 @@ I'm a Computer Science graduate passionate about cybersecurity and AI, with prof
 
 ## 🤖 Machine Learning & AI
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-blue?style=flat-square&logo=scikit-learn&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-Intermediate-purple?style=flat-square&logo=pytorch&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-Advanced-purple?style=flat-square&logo=pytorch&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-Intermediate-green?style=flat-square&logo=openai&logoColor=white)
 
 ## 💻 Tech Stack
@@ -37,9 +36,9 @@ I'm a Computer Science graduate passionate about cybersecurity and AI, with prof
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Tools & Technologies
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Expert-FF6C37?style=flat-square&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Advanced-FF6C37?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-2684FF?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Expert-009933?style=flat-square&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Advanced-009933?style=flat-square&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🏆 Certifications
@@ -52,7 +51,7 @@ I'm a Computer Science graduate passionate about cybersecurity and AI, with prof
 
 ### [Phishing Email Detection System](https://github.com/zeyad-yasser/phishing-detection)
 AI-powered system for real-time phishing email detection
-- **Tech**: Python, TensorFlow, ML Algorithms
+- **Tech**: Python, ML Algorithms
 - **Impact**: Enhanced cybersecurity through real-time threat detection
 - **Features**: Advanced algorithms, real-time analysis, threat intelligence integration
 

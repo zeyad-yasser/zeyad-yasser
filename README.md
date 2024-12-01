@@ -80,13 +80,6 @@ Full-stack e-commerce platform
   - Providing security guidance to 100+ students
   - Building professional networks and sharing expertise
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad-yasser&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-yasser&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🌱 Currently Learning
 - Advanced Red Team Techniques
 - LLM Security
